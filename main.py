@@ -19,8 +19,9 @@ data.info()
 
 # Quitar columnas que "no siven"
 
-# data = data.drop(
-#    ["g", "r", "i", "spec_obj_ID", "obj_ID", "run_ID", "rerun_ID", "cam_col", "field_ID", "MJD", "fiber_ID"], axis=1)
+data = data.drop(
+    ["alpha", "delta", "plate", "spec_obj_ID", "obj_ID", "run_ID", "rerun_ID", "cam_col", "field_ID", "MJD",
+     "fiber_ID"], axis=1)
 
 # Train/Test split
 
