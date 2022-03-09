@@ -7,7 +7,7 @@ I found this dataset on kaggle and I am using it to practice some machine learni
 
 ## Main.py
 
-The main.py script contains a random forest that is fastly trained and gets good accuracy (%97).
+The main.py script contains a random forest that is fastly trained and gets good accuracy (%97.8).
 
 ## SMOTE.py
 
