@@ -3,7 +3,7 @@
 
 ----
 
-I found this dataset on kaggle and I am using it to practice some machine learning coding. 
+I found this dataset on kaggle and I am using it to practice some machine learning coding. You may find some more info about the dataset on https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17 and also some of the code I used as inspiration to start this project.
 
 ## Main.py
 
